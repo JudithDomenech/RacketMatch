@@ -89,40 +89,6 @@ comment
 
 ![alt Data Model](./images/data-model.png)
 
-## Tasks history
-
-### Docs
-
-- ~~TODO introduce the project, describe it (.5h)~~
-
-#### Functional Description 
-
-- ~~TODO create use cases diagram (.5h)~~
-- ~~TODO create wireframes in paper (.5h)~~
-- ~~TODO create wireframes in figma (alt excalidraw) (2h)~~
-- ~~TODO create wireframes in README (images) (.25h)~~
-
-#### Techincal Description 
-
-- ~~TODO create blocks diagram (.5h)~~
-- ~~TODO create data model in paper (1h)~~
-- ~~TODO create data model in diagrams.net (E/R) (1h)~~
-- ~~TODO create data model in README (images) (1h)~~
-
-### Data 
-- ~~TODO create mongoose schemas and models (2h)~~
-- ~~TODO create populate.js to test my models (1h)~~
-- ~~TODO validaciones schemasmas + reales~~
-
-### API (weekend)
-- ~~TODO handlers ~~
-- ~~ TODO test Insomnia~~
-
-### App 
-- ~~TODO logic~~
-- ~~TODO create main views (components) (1h)~~
-- ~~TODO mechanize navigations (.5h) ~~
-
 ## Versión 2.0
 - Testing
 - FeedBack
