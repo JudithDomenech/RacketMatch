@@ -1,4 +1,3 @@
-# RacketMatch
 # Racketmatch
 
 ![alt Racketmatch](https://media.giphy.com/media/eK1iaa5TJxWQeQJ5Wi/giphy.gif)
@@ -13,7 +12,6 @@
 
 
 ## Functional Description
-
 #### User can do:
 
 - Register and Login
@@ -27,20 +25,7 @@
 - Delete comment
 - Delete Account
 
-### Use Cases
-
-![alt Use Cases](./images/use-cases.drawio.png)
-
-#### User Interface (UI)
-
-![alt Use Cases](./images/flowchart.drawio.png)
-
-##### Main Views
-
-![alt Main Views](./images/Views.png)
-
 ## Technical Description
-
 ### Tecnologies
 
 - JavaScript
@@ -51,11 +36,7 @@
 - Express
 - MongoDB
 
-### Blocks
-![alt Main Views](./images/Blocks.png)
-
 ### Data Model
-
 #### Schemas
 
 user 
@@ -84,11 +65,6 @@ comment
 - title: String
 - text: String
 - date: Date
-
-
-#### E/R Diagram
-
-![alt Data Model](./images/data-model.png)
 
 ## Versión 2.0
 - Testing
