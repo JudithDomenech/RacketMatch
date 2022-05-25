@@ -25,7 +25,7 @@ export function LoginForm({ onLoggedIn, onRegister }) {
 
     return <form className='login__wrapper' onSubmit={onSubmit}>
             <Input className='login__input'type='email' name='email' placeholder='Email' required={true} />
-            <Input className='login__input' type='password' name='password' placeholder='Contraseña' required={true} />
+            <Password className='login__input' type='password' feedback={passwordFeedback} onFocus={clearPasswordFeedback} name='password' placeholder='Contraseña' required={true} />
             <Button className='login__button'type='submit'> Login </Button>
             <Link href="" onClick={onRegister}> Registrarse</Link>     
     </form>
